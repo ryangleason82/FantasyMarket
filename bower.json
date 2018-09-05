@@ -1,0 +1,17 @@
+{
+  "name": "fantasymarket",
+  "description": "\"# FantasyMarket\"",
+  "main": "index.js",
+  "authors": [
+    "Ryan Gleason <rjg5404@psu.edu>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ryangleason82/FantasyMarket",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

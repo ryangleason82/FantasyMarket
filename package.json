@@ -1,0 +1,22 @@
+{
+  "name": "fantasymarket",
+  "version": "1.0.0",
+  "description": "\"# FantasyMarket\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryangleason82/FantasyMarket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryangleason82/FantasyMarket/issues"
+  },
+  "homepage": "https://github.com/ryangleason82/FantasyMarket#readme",
+  "dependencies": {
+    "touch": "^3.1.0"
+  }
+}
